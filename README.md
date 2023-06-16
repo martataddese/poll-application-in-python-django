@@ -80,3 +80,24 @@ Django poll app is a full featured polling app. You have to register in this app
     <img src="https://user-images.githubusercontent.com/19981097/51410442-dc7d0e80-1b8e-11e9-8f8e-18e6d7bb70fb.png" width="100%"</img> 
 </div>
 
+## Contribute to this project
+
+<blockquote>
+
+Thank you for browsing this repo. Any contributions you make are **greatly
+appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and
+create a pull request. You can also simply open an issue with the tag
+"enhancement". Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+
+</blockquote>
+
+## 🙋‍♂️ Support
+#### 💙 If you like this project, give it a ⭐ and share it with friends!
